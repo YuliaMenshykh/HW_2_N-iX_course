@@ -1,0 +1,20 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Elizabeth\Desktop\HW_2_N-iX_course).
+  Parsing headers for RadioProjectEditor
+    Running UnrealHeaderTool "C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\RadioProject.uproject" "C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Intermediate\Build\Win64\RadioProjectEditor\Development\RadioProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Elizabeth\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for RadioProjectEditor in 4,1330886 seconds
+  Building RadioProjectEditor...
+  Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 8 actions with 4 processes...
+    [1/8] ModernRadio.cpp
+    [2/8] OldRadio.gen.cpp
+    [3/8] ModernRadio.gen.cpp
+    [4/8] OldRadio.cpp
+    [5/8] RadioProject.init.gen.cpp
+    [6/8] UE4Editor-RadioProject-0004.lib
+       Creating library C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Intermediate\Build\Win64\UE4Editor\Development\RadioProject\UE4Editor-RadioProject-0004.lib and object C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Intermediate\Build\Win64\UE4Editor\Development\RadioProject\UE4Editor-RadioProject-0004.exp
+    [7/8] UE4Editor-RadioProject-0004.dll
+       Creating library C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Intermediate\Build\Win64\UE4Editor\Development\RadioProject\UE4Editor-RadioProject-0004.suppressed.lib and object C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Intermediate\Build\Win64\UE4Editor\Development\RadioProject\UE4Editor-RadioProject-0004.suppressed.exp
+    [8/8] RadioProjectEditor.target
+  Total time in Parallel executor: 3,07 seconds
+  Total execution time: 7,97 seconds

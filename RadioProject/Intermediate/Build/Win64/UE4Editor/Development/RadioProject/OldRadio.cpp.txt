@@ -1,0 +1,14 @@
+C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Intermediate\Build\Win64\UE4Editor\Development\RadioProject\Definitions.RadioProject.h
+C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Source\RadioProject\Public\OldRadio.h
+C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Intermediate\Build\Win64\UE4Editor\Inc\RadioProject\OldRadio.generated.h
+Y:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+Y:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
+Y:\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockHandle.h
+Y:\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzSubsystem.h
+Y:\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockManager.h
+Y:\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz\AudioMixerClock.h
+Y:\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzMetronome.h
+Y:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\QuartzSubsystem.generated.h
+Y:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\AudioMixerClockHandle.generated.h
+Y:\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerQuantizedCommands.h
+Y:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h

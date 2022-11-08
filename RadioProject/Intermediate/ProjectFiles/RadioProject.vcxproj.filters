@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RadioProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{93C46D5B-193C-4797-A313-3898DABC4F67}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RadioProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RadioProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{077791B2-4422-4CCC-8A29-C5AC4287BB64}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RadioProject">
+      <UniqueIdentifier>{5F3B6391-54D5-469A-A350-BF769ADC34D1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RadioProject\RadioProject.Build.cs">
+      <Filter>Source\RadioProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RadioProject\RadioProject.cpp">
+      <Filter>Source\RadioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RadioProject\RadioProject.h">
+      <Filter>Source\RadioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RadioProject\RadioProjectCharacter.cpp">
+      <Filter>Source\RadioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RadioProject\RadioProjectCharacter.h">
+      <Filter>Source\RadioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RadioProject\RadioProjectGameMode.cpp">
+      <Filter>Source\RadioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RadioProject\RadioProjectGameMode.h">
+      <Filter>Source\RadioProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\RadioProject\Private">
+      <UniqueIdentifier>{C7BE030B-29BF-4D48-AFD4-A92AEEB9847D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RadioProject\Private\ModernRadio.cpp">
+      <Filter>Source\RadioProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RadioProject\Private\OldRadio.cpp">
+      <Filter>Source\RadioProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\RadioProject\Public">
+      <UniqueIdentifier>{8311F8D6-7F12-4406-A4C4-33F2096FD1CA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RadioProject\Public\ModernRadio.h">
+      <Filter>Source\RadioProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RadioProject\Public\OldRadio.h">
+      <Filter>Source\RadioProject\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

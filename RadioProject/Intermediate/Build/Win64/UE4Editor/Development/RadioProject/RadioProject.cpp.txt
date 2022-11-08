@@ -1,0 +1,2 @@
+C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Intermediate\Build\Win64\UE4Editor\Development\RadioProject\Definitions.RadioProject.h
+C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Source\RadioProject\RadioProject.h

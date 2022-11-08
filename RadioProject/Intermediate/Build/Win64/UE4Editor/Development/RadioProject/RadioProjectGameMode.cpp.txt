@@ -1,0 +1,15 @@
+C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Intermediate\Build\Win64\UE4Editor\Development\RadioProject\Definitions.RadioProject.h
+C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Source\RadioProject\RadioProjectGameMode.h
+Y:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+Y:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+Y:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+Y:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Intermediate\Build\Win64\UE4Editor\Inc\RadioProject\RadioProjectGameMode.generated.h
+C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Source\RadioProject\RadioProjectCharacter.h
+Y:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+Y:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+Y:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+Y:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+Y:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+Y:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\Elizabeth\Desktop\HW_2_N-iX_course\RadioProject\Intermediate\Build\Win64\UE4Editor\Inc\RadioProject\RadioProjectCharacter.generated.h
